@@ -1,6 +1,4 @@
-Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
-Type "copyright", "credits" or "license()" for more information.
->>> # create 3 lists of students with grades
+# create 3 lists of students with grades
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
